@@ -22,14 +22,3 @@ House price of the unit area is proportional to the number of convenience stores
 House price of the unit area is inversely proportional to the distance to the nearest MRT station.
 House age is not proportional to the price of unit area.
 Overall, the machine learning models were able to predict house prices accurately and could be utilized in the real estate industry to facilitate quick and accurate matches between people and houses.
-
-# Installation
-To run this script, you will need to have Python 3 installed on your machine. You can download it from the official Python website: https://www.python.org/downloads/
-
-You will also need to install the following libraries:
-
-scikit-learn
-matplotlib
-seaborn
-pandas
-numpy
